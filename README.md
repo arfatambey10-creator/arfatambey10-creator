@@ -1,5 +1,5 @@
 Hi, I’m Arfa 👋
-I am an Applied AI & Python Engineer currently completing my MSc in Electrical & Electronics Engineering at Coventry University. I specialise in bridging the gap between complex research (LLMs, Computer Vision) and production-ready, maintainable systems.
+I am an Applied AI & Python Engineer completed my MSc in Electrical & Electronics Engineering at Coventry University. I specialise in bridging the gap between complex research (LLMs, Computer Vision) and production-ready, maintainable systems.
 Core Focus & Engineering Philosophy
 My work is driven by first-principles thinking and a commitment to correctness and reliability. I focus on:
 • Document Intelligence & RAG: Building systems that prioritise retrieval quality, semantic similarity, and efficient context construction.
