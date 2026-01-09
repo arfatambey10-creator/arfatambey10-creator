@@ -49,4 +49,4 @@ Get in Touch
 
 GitHub: https://github.com/arfatambey10-creator
 
-LinkedIn: (add your LinkedIn URL here)
+LinkedIn: https://www.linkedin.com/in/arfa-tambey-47b6142bb/
