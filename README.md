@@ -25,4 +25,4 @@ Education & Technical Stack
 • Stack: Python, LLMs (RAG), OpenCV, MediaPipe, MATLAB/Simulink, Scikit-learn, Git.
 Let's Connect
 I am interested in how AI systems behave in real-world products, focusing on the trade-offs between quality, latency, and cost.
-LinkedIn: in/arfa-tambey-47b6142bb | Email: arfatambey10@gmail.com
+LinkedIn: https://www.linkedin.com/in/arfa-tambey-47b6142bb/| Email: arfatambey10@gmail.com
